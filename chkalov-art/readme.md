@@ -9,3 +9,6 @@
 Запуск 
 1. `python .\src\main5.py`
 2. `python .\src\main6 (2).py`
+
+#Важно
+#Нужен пайтон!!!!!!
